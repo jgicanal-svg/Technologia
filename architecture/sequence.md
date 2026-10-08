@@ -63,6 +63,6 @@ sequenceDiagram
     end
 ```
 
-**Key:** solid arrows = request, dashed arrows = reply; `opt` = optional branch; `alt` = either/or branch.
+**Key:** solid arrows = request, dashed arrows = reply; `opt` = optional branch; `alt` = either/or branch. 
 
 **Why this is our riskiest flow:** every inquiry logged here is exactly what our JVB Success Criterion counts ("at least 15 of ~50 students message the post within 5 days"). If this flow breaks or undercounts, we cannot tell whether an experiment passed or failed.

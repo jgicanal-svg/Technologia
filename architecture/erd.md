@@ -1,7 +1,7 @@
 # Draft ERD — Boarding House Listing Verification
 
 **Scope:** One table per stored class; primary and foreign keys; crow's-foot cardinality matching our class diagram; PII columns marked.
-
+ 
 ```mermaid
 erDiagram
 

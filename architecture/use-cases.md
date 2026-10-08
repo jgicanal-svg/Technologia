@@ -49,7 +49,7 @@ flowchart LR
 
 **Key:** rounded rectangles = actors; double-ringed circles = use cases; solid arrows = actor participation; dashed arrows = «include»/«extend» relationships.
 
-**Why each use case matters (primary audience / risk reduced):**
+**Why each use case matters (primary audience / risk reduced):** 
 
 | Use case | Primary audience | Risk it reduces |
 |---|---|---|

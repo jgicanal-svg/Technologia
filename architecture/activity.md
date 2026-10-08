@@ -1,6 +1,6 @@
 # Activity Diagram — Listing Submission & Verification Workflow
 
-**Scope:** Our core workflow; one swimlane per role and one for the system; every decision labelled with guards; start and end nodes.
+**Scope:** Our core workflow; one swimlane per role and one for the system; every decision labelled with guards; start and end nodes. 
 
 ```mermaid
 flowchart TB

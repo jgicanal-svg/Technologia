@@ -83,6 +83,6 @@ flowchart TB
     class supabase,cloudinary,maps,messenger external;
 ```
 
-**Key:** arrows point from a package to the package it depends on (imports from).
+**Key:** arrows point from a package to the package it depends on (imports from). 
 
 **Layering rule:** Pages and API routes in `app/` never import `data/` directly — only `services/` is allowed to import `data/`, and `components/` never imports `services/` or `data/`.

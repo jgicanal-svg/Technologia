@@ -1,6 +1,6 @@
 # UML Component Diagram — API Container
 
-**Scope:** Our API container; the interfaces each component provides and requires; external services kept behind an adapter interface.
+**Scope:** Our API container; the interfaces each component provides and requires; external services kept behind an adapter interface. 
 
 ```mermaid
 flowchart TB

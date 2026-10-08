@@ -1,6 +1,6 @@
 # Use Case Diagram — Boarding House Listing Verification
 
-**Scope:** Every actor from the context diagram; 5–12 goal-level use cases named verb + object, taken from our MVP feature list.
+**Scope:** Every actor from the context diagram; 5–12 goal-level use cases named verb + object, taken from our MVP feature list. 
 
 ```mermaid
 flowchart LR

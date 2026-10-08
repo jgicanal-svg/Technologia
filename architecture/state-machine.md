@@ -29,5 +29,5 @@ stateDiagram-v2
 ```
 
 **Key:** `[*]` = initial/final pseudo-state; arrow labels after the colon are the triggering event, bracketed text is the guard condition.
-
+ 
 **Traceability:** These six states are exactly the six values of the `ListingStatus` enumeration in `class.md`. `AwaitingVerification → Verified` is the same decision point drawn as a guarded branch in `activity.md`.

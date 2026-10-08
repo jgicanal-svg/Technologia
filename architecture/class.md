@@ -71,4 +71,4 @@ classDiagram
 
 **Key:** `+` = public attribute; `<<enumeration>>` = a fixed set of allowed values; `"1" --> "0..*"` reads as "one of the left side relates to zero or more of the right side."
 
-**Traceability:** `VerificationChecklist` attributes mirror the actual check our team verifier performs (price, photos, availability) as described in our Solution box on the Lean Canvas and JVB. `Inquiry` is the class our JVB success metric counts. `ListingStatus` values match the Activity and State Machine diagrams exactly.
+**Traceability:** `VerificationChecklist` attributes mirror the actual check our team verifier performs (price, photos, availability) as described in our Solution box on the Lean Canvas and JVB. `Inquiry` is the class our JVB success metric counts. `ListingStatus` values match the Activity and State Machine diagrams exactly. 
